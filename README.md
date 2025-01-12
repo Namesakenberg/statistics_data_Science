@@ -1,3 +1,1 @@
-# Hyperparameter-Hangout
-All the fine-tuning sessions
-(I do my ML homework here !)
+##code for practice of : Descriptive Statistics , Probability Distributions , Inferential Statistics and Hypothesis Testing
